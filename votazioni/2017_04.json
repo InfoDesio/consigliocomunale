@@ -1,0 +1,44 @@
+{
+  "TESTA": {
+    "TIPO": "ORDINE DEL GIORNO",
+    "DATA": "23/02/2017",
+    "ANNO": 2017,
+    "NUMERO": 4,
+    "OGGETTO": "AZIONE A FAVORE DELLA RIVENDICAZIONE DELLE RISORSE A COPERTURA DEL TRASPORTO PUBBLICO LOCALE",
+    "STATO":"APPROVATO",
+    "LISTA": [
+      "TUTTE LE LISTE"
+    ],
+    "PRESENTATO": [
+      ""
+    ],
+    "LINK": "http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3100581"
+  },
+  "CORPO": [
+    { "LISTA": "PD",                     "COMPONENTE": "CORTI ROBERTO",           "PRESENZA": "P", "VOTO": "F" },
+    { "LISTA": "PD",                     "COMPONENTE": "TACCAGNI ACHILLE",        "PRESENZA": "P", "VOTO": "F" },
+    { "LISTA": "PD",                     "COMPONENTE": "SICURELLO MARTA",         "PRESENZA": "P", "VOTO": "F" },
+    { "LISTA": "PD",                     "COMPONENTE": "LA GRECA EMANUELA",       "PRESENZA": "A", "VOTO": "" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "ALBERTI ALESSIO",         "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "RICCHIUTI MARIALUISA",    "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "CICCHETTI ROCCO",         "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "RUSSI ANGELO",            "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "ARIENTI JENNY",           "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "RAVASI MARIANGELA",       "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "PEREGO SARA",             "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "SMIRAGLIA ANNUNZIATA",    "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "SALA STEFANO AMBROGIO",   "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "DESIO VIVA",             "COMPONENTE": "PASQUALI FRANCESCO",      "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "DESIO VIVA",             "COMPONENTE": "BERETTA MARCO",           "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "SINISTRA PER DESIO",     "COMPONENTE": "MARIANI SERGIO",          "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LEGA NORD",              "COMPONENTE": "ZANELLO MASSIMO",         "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LEGA NORD",              "COMPONENTE": "VILLA ANDREA",            "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LEGA NORD",              "COMPONENTE": "LO RE GRETA",             "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LEGA NORD",              "COMPONENTE": "VITALE MICHELE",          "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LEGA NORD",              "COMPONENTE": "GHEZZI LUCA",             "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "FORZA ITALIA",           "COMPONENTE": "COMMATTEO DANIELE MARIO", "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "M5S",                    "COMPONENTE": "MONTRASIO SARA",          "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "M5S",                    "COMPONENTE": "PACE LUCA",               "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LISTA CIVICA PER DESIO", "COMPONENTE": "GARGIULO SIMONE",         "PRESENZA": "P", "VOTO": "F" }    
+  ]
+}

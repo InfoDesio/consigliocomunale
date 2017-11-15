@@ -1,0 +1,44 @@
+{
+  "TESTA": {
+    "TIPO": "ORDINE DEL GIORNO",
+    "DATA": "04/05/2017",
+    "ANNO": 2017,
+    "NUMERO": 13,
+    "OGGETTO": "APERTURA SPORTELLO IN CONFORMITA' ALLA LEGGE 'ANTISUICIDI'",
+    "STATO":"RESPINTO",
+    "LISTA": [
+      "FORZA ITALIA"
+    ],
+    "PRESENTATO": [
+      ""
+    ],
+    "LINK": "http://desio.trasparenza-valutazione-merito.it/web/albo/storico-atti/-/papca/display/3239878"
+  },
+  "CORPO": [
+    { "LISTA": "PD",                     "COMPONENTE": "CORTI ROBERTO",           "PRESENZA": "P", "VOTO": "C" },
+    { "LISTA": "PD",                     "COMPONENTE": "TACCAGNI ACHILLE",        "PRESENZA": "P", "VOTO": "C" },
+    { "LISTA": "PD",                     "COMPONENTE": "SICURELLO MARTA",         "PRESENZA": "P", "VOTO": "C" },
+    { "LISTA": "PD",                     "COMPONENTE": "LA GRECA EMANUELA",       "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "ALBERTI ALESSIO",         "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "RICCHIUTI MARIALUISA",    "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "CICCHETTI ROCCO",         "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "RUSSI ANGELO",            "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "ARIENTI JENNY",           "PRESENZA": "A", "VOTO": "" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "RAVASI MARIANGELA",       "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "PEREGO SARA",             "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "SMIRAGLIA ANNUNZIATA",    "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "PD",                     "COMPONENTE": "SALA STEFANO AMBROGIO",   "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "DESIO VIVA",             "COMPONENTE": "PASQUALI FRANCESCO",      "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "DESIO VIVA",             "COMPONENTE": "BERETTA MARCO",           "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "SINISTRA PER DESIO",     "COMPONENTE": "MARIANI SERGIO",          "PRESENZA": "P", "VOTO": "C" }, 
+    { "LISTA": "LEGA NORD",              "COMPONENTE": "ZANELLO MASSIMO",         "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LEGA NORD",              "COMPONENTE": "VILLA ANDREA",            "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LEGA NORD",              "COMPONENTE": "LO RE GRETA",             "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LEGA NORD",              "COMPONENTE": "VITALE MICHELE",          "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LEGA NORD",              "COMPONENTE": "GHEZZI LUCA",             "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "FORZA ITALIA",           "COMPONENTE": "COMMATTEO DANIELE MARIO", "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "M5S",                    "COMPONENTE": "MONTRASIO SARA",          "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "M5S",                    "COMPONENTE": "PACE LUCA",               "PRESENZA": "P", "VOTO": "F" }, 
+    { "LISTA": "LISTA CIVICA PER DESIO", "COMPONENTE": "GARGIULO SIMONE",         "PRESENZA": "P", "VOTO": "F" }    
+  ]
+}
